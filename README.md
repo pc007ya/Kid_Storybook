@@ -18,7 +18,7 @@ Kid_Storybook
 
 ### 保存與備份
 
-文字、順序與編輯狀態存於 localStorage 的 `kid-storybook.v1`；原始圖片以 Blob 存於 IndexedDB 的 `kid-storybook` / `images`，不重新壓縮。資料只保存在同一瀏覽器與網站來源，不會上傳至 GitHub，也不會自動跨裝置同步。清除網站資料會刪除作品，請定期匯出備份。
+文字、順序與編輯狀態存於 localStorage 的 `kid-storybook.v1`；原始圖片以 Blob 存於 IndexedDB 的 `kid-storybook` / `images`，不重新壓縮。自動儲存只保存在同一瀏覽器與網站來源；只有明確按下「GitHub 提交／載入」中的「確認提交全部書庫」才會寫入 GitHub，不會自動跨裝置同步。清除網站資料會刪除作品，請定期匯出備份。
 
 「匯出備份」下載 version 1 JSON，含所有故事、樣式與原圖。「匯入備份」以新 ID 加入故事，不覆蓋現有作品。「匯出 HTML」下載目前故事的單一離線 HTML，內嵌原圖與樣式，含翻頁，並鎖定匯出前選定的尺寸（成品沒有尺寸選單）。之後可基於此資料格式擴充 PDF / EPUB 匯出。
 
@@ -43,3 +43,13 @@ Kid_Storybook
 ### JPG ZIP 匯出
 
 「匯出 JPG ZIP」依目前書籍順序，將每頁底圖、文字、PNG 圖層與對話框合成指定尺寸的 JPG，再打包為 ZIP。ZIP 名稱為「書名_寬x高_JPG.zip」，內部檔名為「書名_001_頁名.jpg」。不合法的檔名字元會轉為底線。JPG 使用白底，透明圖層依畫面合成；ZIP 超過 50 MB 會降低 JPG 品質重試，仍超限則停止下載。使用本地隨附的 html2canvas 1.4.1 與 fflate，授權見 vendor/。
+
+### GitHub 提交與載入
+
+右上角「GitHub 提交／載入」固定連接 pc007ya/Kid_Storybook 的 main。建立 fine-grained token，僅授予此專案 Contents: Read and write，在網頁對話框輸入後提交。權杖僅用於本次 API 請求，操作結束清除，不存 localStorage、Git 或備份；不要貼到聊天訊息。
+
+全部書庫保存於 stories/saved/library.json，新上傳圖片依內容雜湊保存於 stories/saved/images/，既有專案圖片可沿用。每次提交沿用遠端 base tree，以單次非強制更新分支完成；不改動其他程式檔。若書庫基準不同或分支在提交期間更新，停止提交。成功顯示 Git commit 連結；Pages 部署成功與否可到 GitHub Actions 查看。
+
+「載入 GitHub 版本」直接讀取 GitHub，無須等 Pages 快取更新；會取代本機書庫，並先保留一份本機還原點。新裝置需主動載入，不會默默覆蓋已有本機修改。若遇衝突，先匯出本機備份、載入 GitHub，再以匯入備份整合。公開書庫可不填權杖載入；未授權讀取的 API 可能受較低額度限制。專案為公開，提交的故事與圖片也公開。
+
+參考：https://docs.github.com/en/rest/git/refs 、 https://docs.github.com/en/rest/git/commits 。
