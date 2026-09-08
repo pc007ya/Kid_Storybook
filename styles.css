@@ -2,3 +2,5 @@
 [hidden]{display:none!important}main>*{flex-shrink:0}.canvas-wrap{flex:0 0 auto;min-height:0;margin:auto 0}input[type=range]{min-height:24px}
 
 .story-notes,.scene-notes{background:#fff;border:1px solid var(--border);border-radius:8px;padding:12px;margin-bottom:18px;font-size:13px}.story-notes summary,.scene-notes summary{cursor:pointer;font-weight:600}.story-notes label,.scene-notes label{margin-top:12px}.story-notes a{color:var(--accent)}#sceneStatus,#storyReferences p{font-size:12px;color:#63738a}
+
+header{height:auto;min-height:88px;flex-wrap:wrap;padding-top:10px;padding-bottom:10px}.app{height:calc(100dvh - 110px)}.size-picker{margin:0;font-size:11px}.size-picker select{margin-top:2px;padding:6px;width:150px}.book-actions{display:flex;align-items:center;gap:3px}.book-actions .book-button{flex:1;min-width:0;overflow-wrap:anywhere}.trash{padding:5px;border:0;background:transparent;color:#a64040;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;min-width:26px}.page-row{gap:1px}.page-row .trash{min-width:23px}.page-select{font-size:12px}#deletePage svg{vertical-align:middle}@media(max-width:760px){.app{height:auto}}
