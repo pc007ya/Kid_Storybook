@@ -1,0 +1,878 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "0853f48b-6c40-47cd-9b12-43cd446bb707",
+      "title": "我的第一本故事書",
+      "pages": [
+        {
+          "id": "b544e801-03c8-44b2-b148-0edb4796c1f7",
+          "title": "故事的開始",
+          "text": "",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 33,
+            "x": 8,
+            "y": 65,
+            "width": 84,
+            "lineHeight": 1.6,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 85,
+            "borderColor": "#233342",
+            "borderWidth": 0
+          },
+          "image": null,
+          "fit": "contain"
+        }
+      ],
+      "pageSize": "2048x1536"
+    },
+    {
+      "id": "first-time-not-afraid-v1",
+      "title": "第一次：不再怕怕",
+      "overview": "瑜瑜第一次上學，害怕陌生教室與離開媽媽。在媽媽鼓勵與湘湘幫助下，她慢慢踏出第一步、交到朋友。放學後，爸爸陪她練習騎腳踏車，讓她再次面對害怕並發現自己能做到。夜晚，她理解：第一次會怕怕，但可以慢慢試。\n\n20 頁（含封面、書名頁）。正文採原對話最後的正式完稿版；分鏡依既有畫面建議整理，後半段按正式稿調整。角色服裝與橘皮小貓的最終設定尚未取得，插圖待補。",
+      "source": "適合寫故事的歌曲 · 6a9ed3e5-caa4-83ee-af7a-da69286ae0b2",
+      "pages": [
+        {
+          "id": "first-time-page-1",
+          "title": "封面",
+          "text": "《第一次》\n不再怕怕",
+          "scene": "瑜瑜背著書包，旁邊放著小腳踏車，站在校門口。呼應上學與成長兩條主線。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-1",
+            "name": "scene1.png",
+            "asset": "stories/first-time/images/scene1.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 8,
+            "y": 8,
+            "width": 84,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": false,
+            "boxColor": "#ffffff",
+            "boxOpacity": 85,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 0
+          },
+          "bundledImageVersion": 1,
+          "layers": [
+            {
+              "id": "8ba88f6f-9c0b-4597-b3a1-7fb24491247c",
+              "type": "text",
+              "text": "作者:學習星球",
+              "style": {
+                "font": "sans",
+                "color": "#233342",
+                "size": 32,
+                "x": 75.30312844956302,
+                "y": 90.09465962030859,
+                "width": 22.651229365341223,
+                "lineHeight": 1.6,
+                "paragraphGap": 12,
+                "align": "left",
+                "backdrop": true,
+                "showText": true,
+                "boxColor": "#ffffff",
+                "boxOpacity": 65,
+                "borderColor": "#233342",
+                "borderWidth": 0,
+                "height": 8.22800604234201,
+                "rotation": 0,
+                "keepAspect": true
+              }
+            }
+          ],
+          "layerOrder": [
+            "base",
+            "8ba88f6f-9c0b-4597-b3a1-7fb24491247c"
+          ]
+        },
+        {
+          "id": "first-time-page-2",
+          "title": "書名頁",
+          "text": "《第一次》不再怕怕",
+          "scene": "以書包、水壺、安全帽、小手帕等物件搭配書名，留下清楚的標題空間。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-2",
+            "name": "scene2.png",
+            "asset": "stories/first-time/images/scene2.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 69.9607895869191,
+            "y": 88.98734222604706,
+            "width": 26.824306153184168,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 7.665483362019507
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-3",
+          "title": "今天，是特別的一天",
+          "text": "今天一早，太陽才剛剛爬上窗邊，瑜瑜就醒來了。\n因為今天，是她第一次上學。",
+          "scene": "晨光落在窗邊，瑜瑜在床上醒來，準備迎接第一次上學。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-3",
+            "name": "scene3.png",
+            "asset": "stories/first-time/images/scene3.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 32,
+            "x": 27.915824010327025,
+            "y": 82.35534997131383,
+            "width": 71.316453313253,
+            "lineHeight": 1.6,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 17.323759323006314
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-4",
+          "title": "心裡小小的怕",
+          "text": "床上放著新制服，旁邊放著新書包，還有一雙小小的新鞋子。\n明明每一樣都好新、好漂亮，瑜瑜卻忍不住有一點緊張。",
+          "scene": "床邊的新書包、椅子上的制服、地上的新鞋子；瑜瑜望著它們，既期待又緊張。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-4",
+            "name": "scene4.png",
+            "asset": "stories/first-time/images/scene4.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 28.358890920826163,
+            "y": 85.09409064830751,
+            "width": 71.05357142857143,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 14.196069994262764
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-5",
+          "title": "好多擔心",
+          "text": "她靜靜環抱自己，心裡偷偷想著：\n如果我找不到教室，怎麼辦？如果沒有人跟我玩，怎麼辦？如果我想媽媽了，怎麼辦？\n原來，第一次還沒開始，心裡就會先有一點點怕怕。",
+          "scene": "瑜瑜摸著背帶，想像找不到教室、沒人陪玩、想媽媽的情境。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-5",
+            "name": "scene5.png",
+            "asset": "stories/first-time/images/scene5.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 0.3239834337349381,
+            "y": 78.62804790590936,
+            "width": 99.65054862306368,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 20.80733648881239
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-6",
+          "title": "媽媽的抱抱",
+          "text": "媽媽蹲下來，幫瑜瑜把領子整理好，又輕輕抱了抱她。\n「第一次會怕怕，很正常呀。」\n「不用一下子變得很勇敢，我們慢慢來，就可以了。」",
+          "scene": "媽媽蹲下整理瑜瑜的領子，輕輕抱她，表現被理解與安定。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-6",
+            "name": "scene6.png",
+            "asset": "stories/first-time/images/scene6.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 36.16063360585198,
+            "y": 78.95166379804934,
+            "width": 63.702963640275385,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 20.667491394148023
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-7",
+          "title": "我試試看",
+          "text": "瑜瑜點點頭，深深吸了一口氣。\n她自己背上書包，自己拿好水壺，小小聲地對自己說：\n「好，我試試看。」",
+          "scene": "瑜瑜深吸一口氣，自己背書包、拿水壺，鼓起勇氣。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-7",
+            "name": "scene7.png",
+            "asset": "stories/first-time/images/scene7.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 36.455787435456116,
+            "y": 78.41559093516923,
+            "width": 63.17988919965576,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 21.13902036718302
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-8",
+          "title": "學校到了",
+          "text": "到了學校，校門口有好多小朋友。\n有的笑著跑進去，有的牽著大人的手，也有的像瑜瑜一樣，安安靜靜地站著，偷偷把手握得緊緊的。",
+          "scene": "校門口有不同情緒的小朋友；瑜瑜站在媽媽身旁安靜觀察。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-8",
+            "name": "scene8.png",
+            "asset": "stories/first-time/images/scene8.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 39.979480421686745,
+            "y": 77.28159064830753,
+            "width": 59.07731820137693,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 19.709193918531263
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-9",
+          "title": "教室門口",
+          "text": "走到教室門口時，瑜瑜忽然停下了腳步。\n她拉著媽媽的手，不想放開。她的眼睛濕濕的，鼻子也酸酸的。\n教室裡有老師、桌子、椅子，還有好多不認識的小朋友。\n這一切，都讓她覺得好陌生。",
+          "scene": "瑜瑜在教室門口停住，緊拉媽媽的手，眼睛濕濕的；門內是陌生的老師與同學。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-9",
+            "name": "scene9.png",
+            "asset": "stories/first-time/images/scene9.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 25.978834982788296,
+            "y": 73.80608146873207,
+            "width": 73.71600688468159,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 25.550415949512335
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-10",
+          "title": "先走一步",
+          "text": "媽媽摸摸她的頭，笑著說：\n「沒關係，不用一下子走很遠。」\n「先走一步，就很好了。」\n瑜瑜看看媽媽，再看看教室門口，終於輕輕點了點頭。",
+          "scene": "媽媽摸摸瑜瑜的頭，鼓勵先走一步；瑜瑜看向教室，輕輕點頭。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-10",
+            "name": "scene10.png",
+            "asset": "stories/first-time/images/scene10.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 35.92464500860585,
+            "y": 72.36370481927712,
+            "width": 63.604803141135974,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 27.042096959265635
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-11",
+          "title": "找到自己的位子",
+          "text": "她慢慢走進教室，找到自己的小桌子和小椅子。\n她把書包放好，再乖乖坐下來。\n小桌椅，好像都在對她說：\n「歡迎你來。」\n瑜瑜原本跳得很快的心，也慢慢地安靜了一點。",
+          "scene": "明亮教室裡，瑜瑜放好書包，坐在自己的桌椅前，慢慢安定下來。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-11",
+            "name": "scene11.png",
+            "asset": "stories/first-time/images/scene11.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 41.31338747848537,
+            "y": 64.53955106138841,
+            "width": 57.78912973321859,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 33.962636259323006
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-12",
+          "title": "鉛筆掉了一地",
+          "text": "她打開鉛筆盒，想把彩色鉛筆排整齊。\n沒想到，手一滑—啪啦！\n鉛筆一枝一枝滾到地上，紅的、黃的、藍的、綠的，一下子散得到處都是。\n瑜瑜愣住了，又急、又慌，差一點就要哭出來。",
+          "scene": "彩色鉛筆從鉛筆盒滑落，散在地上；瑜瑜又急又慌。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-12",
+            "name": "scene12.png",
+            "asset": "stories/first-time/images/scene12.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 0.3260004302925984,
+            "y": 72.15573006310956,
+            "width": 87.25005378657487,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 27.234832185886404
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-13",
+          "title": "第一個朋友",
+          "text": "這時，一個綁著辮子的女孩蹲了下來。\n「我幫你。」她一邊說，一邊把地上的鉛筆一枝枝撿起來。\n最後，她把一枝紅色鉛筆輕輕放到瑜瑜手上。\n瑜瑜抬起頭，看見了一個溫暖的笑容。",
+          "scene": "綁辮子的湘湘蹲下撿鉛筆，把紅色鉛筆遞給瑜瑜，露出溫暖笑容。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-14",
+            "name": "scene14.png",
+            "asset": "stories/first-time/images/scene14.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 0.14716006884681576,
+            "y": 71.2539084911073,
+            "width": 68.48660714285714,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 27.567412507171543
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-14",
+          "title": "你好，我叫瑜瑜",
+          "text": "瑜瑜本來有點不敢說話。\n可是她想起媽媽說的。\n於是，她鼓起一點點勇氣，小小聲地說：\n「你……你好，我叫瑜瑜。」\n女孩笑著回答：「我叫湘湘。」\n從那一刻開始，教室好像沒有那麼陌生了。",
+          "scene": "瑜瑜鼓起勇氣自我介紹；湘湘微笑回應，兩人開始熟悉。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-13",
+            "name": "scene13.png",
+            "asset": "stories/first-time/images/scene13.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 1.9120320567986226,
+            "y": 58.02599684452094,
+            "width": 50.87419320137693,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 40.406267928858284
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-15",
+          "title": "一起玩的時候",
+          "text": "下課的時候，她們一起看圖畫書，一起排隊洗手，一起玩遊戲。\n湘湘會跟瑜瑜說：「這個很好玩！」瑜瑜也會跟湘湘說：\n「你看，這個我會！」\n兩個人一起笑的時候，瑜瑜忽然發現：\n原來，有朋友在身邊，怕怕就會變小一點。",
+          "scene": "瑜瑜與湘湘一起看書、洗手與玩遊戲，呈現友情讓害怕變小。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-15",
+            "name": "scene15.png",
+            "asset": "stories/first-time/images/scene15.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 25.71998709122203,
+            "y": 65.15361445783132,
+            "width": 73.79466975043029,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 34.42968301778543
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-16",
+          "title": "放學的分享",
+          "text": "放學的時候，媽媽來接她回家。\n一路上，瑜瑜不停地分享今天的事：\n「我有自己走進教室喔！」「我有坐在自己的位子上喔！」「我還認識了一個新朋友，她叫湘湘！」\n媽媽聽著聽著，眼睛都笑彎了。",
+          "scene": "放學回家路上，瑜瑜向媽媽分享走進教室與認識湘湘的事，媽媽笑著聽。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-15.5",
+            "name": "scene15.5.png",
+            "asset": "stories/first-time/images/scene15.5.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 15.83670395869191,
+            "y": 66.60226620768789,
+            "width": 84,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 0
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-17",
+          "title": "第一次騎腳踏車",
+          "text": "回到家後，爸爸把一台小腳踏車慢慢推了出來。\n「瑜瑜，今天要不要試試看？」\n瑜瑜一看，剛剛才放鬆下來的心，又開始噗通噗通地跳了。\n她小聲地問：\n「如果我跌倒，怎麼辦？」「如果我騎不好，怎麼辦？」\n原來，第一次騎腳踏車，也會讓人怕怕的。",
+          "scene": "爸爸在家門前推出小腳踏車；瑜瑜望著車子，有些擔心跌倒與騎不好。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-17",
+            "name": "scene17.png",
+            "asset": "stories/first-time/images/scene17.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 30.629356712564544,
+            "y": 57.88704819277108,
+            "width": 68.5437553786575,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 41.78410068846816
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-18",
+          "title": "慢慢練習",
+          "text": "爸爸扶著後座，陪她慢慢往前走。\n瑜瑜兩隻手緊緊握住車把，腳一踩上踏板，車子就歪一下、晃一下。\n「沒關係，慢慢來。」爸爸在後面說。\n瑜瑜吸了一口氣，又試了一次。\n再試一次。\n還要再試一次。",
+          "scene": "瑜瑜戴好安全帽握住車把，爸爸扶後座陪她反覆練習，車身輕輕搖晃。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-18",
+            "name": "scene18.png",
+            "asset": "stories/first-time/images/scene18.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 48.96721708261619,
+            "y": 54.113023522662075,
+            "width": 50.48491286574871,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 44.92792598967298
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-19",
+          "title": "我做到了",
+          "text": "風輕輕吹過來，車輪慢慢轉了起來。\n一下子，她往前騎了一小段。\n再一下子，她又騎得更遠了一點。\n瑜瑜回頭一看，才發現爸爸的手，不知道什麼時候已經輕輕放開了。\n「爸爸！」她又驚訝、又開心地大叫：「我做到了！我真的做到了！」",
+          "scene": "瑜瑜戴安全帽向前騎，爸爸在後方放開扶車的手；她驚喜地發現自己做到了。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-19",
+            "name": "scene19.png",
+            "asset": "stories/first-time/images/scene19.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 0.627205249569708,
+            "y": 64.92591795754446,
+            "width": 84,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 0
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        },
+        {
+          "id": "first-time-page-20",
+          "title": "新的第一次",
+          "text": "晚上睡覺前，瑜瑜躺在床上，安安靜靜地想著今天。\n今天，她第一次上學，第一次自己走進教室，第一次交到新朋友，也第一次練習騎腳踏車。\n原來，第一次真的會怕怕。可是，只要慢慢來，就會發現——\n我沒有想像中那麼害怕。我也比自己想像中，更勇敢一點點。\n瑜瑜閉上眼睛，抱著小被子輕輕笑了。\n她知道，明天還會有新的第一次。而她，已經不再那麼怕怕了。",
+          "scene": "晚上，瑜瑜抱著小被子躺在床上，回想上學、朋友與騎車的第一次，安心微笑。",
+          "imageStatus": "已核對主要角色與服裝，2048×1536 AI 補正版",
+          "image": {
+            "id": "bundled-first-time-20",
+            "name": "scene20.png",
+            "asset": "stories/first-time/images/scene20.png",
+            "width": 2048,
+            "height": 1536,
+            "type": "image/png"
+          },
+          "fit": "contain",
+          "style": {
+            "font": "sans",
+            "color": "#233342",
+            "size": 26,
+            "x": 23.314382530120483,
+            "y": 53.507028112449795,
+            "width": 76.2621288726334,
+            "lineHeight": 1.5,
+            "paragraphGap": 12,
+            "align": "left",
+            "backdrop": true,
+            "showText": true,
+            "boxColor": "#ffffff",
+            "boxOpacity": 65,
+            "borderColor": "#233342",
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 46.29679432013769
+          },
+          "bundledImageVersion": 1,
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
+        }
+      ],
+      "pageSize": "2048x1536"
+    }
+  ],
+  "bookId": "first-time-not-afraid-v1",
+  "pageId": "first-time-page-1",
+  "collapsed": false,
+  "deletedBooks": [
+    "0cfac241-839b-451c-bdd4-ce5c1a7c6298"
+  ]
+}
