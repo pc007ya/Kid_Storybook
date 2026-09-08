@@ -20,7 +20,7 @@ Kid_Storybook
 
 文字、順序與編輯狀態存於 localStorage 的 `kid-storybook.v1`；原始圖片以 Blob 存於 IndexedDB 的 `kid-storybook` / `images`，不重新壓縮。資料只保存在同一瀏覽器與網站來源，不會上傳至 GitHub，也不會自動跨裝置同步。清除網站資料會刪除作品，請定期匯出備份。
 
-「匯出備份」下載 version 1 JSON，含所有故事、樣式與原圖。「匯入備份」以新 ID 加入故事，不覆蓋現有作品。「匯出 HTML」下載目前故事的單一離線 HTML，內嵌原圖與樣式，含翻頁及右上角尺寸選單。之後可基於此資料格式擴充 PDF / EPUB 匯出。
+「匯出備份」下載 version 1 JSON，含所有故事、樣式與原圖。「匯入備份」以新 ID 加入故事，不覆蓋現有作品。「匯出 HTML」下載目前故事的單一離線 HTML，內嵌原圖與樣式，含翻頁，並鎖定匯出前選定的尺寸（成品沒有尺寸選單）。之後可基於此資料格式擴充 PDF / EPUB 匯出。
 
 字級和段落間隔以 1024px 寬畫布為基準，預覽等比例縮放。字體使用系統字體，實際外觀依裝置已安裝字體而異。每次換行建立一個段落，過長內容超出畫布會裁切，請調整字級或位置。
 
@@ -28,4 +28,14 @@ Kid_Storybook
 
 透過任意靜態 HTTP 伺服器開啟根目錄；例如 `python3 -m http.server 8765` 後開啟 `http://localhost:8765`。勿直接使用 file://，瀏覽器儲存行為可能不同。
 
-`.github/workflows/pages.yml` 在 main 更新時部署 GitHub Pages，發布 index.html、styles.css、app.js、story-library.js 與 stories/ 素材。GitHub 設定 Pages 的來源為 GitHub Actions。既有 README 內容保留。
+`.github/workflows/pages.yml` 在 main 更新時部署 GitHub Pages，發布 index.html、styles.css、app.js、layers.js、story-library.js 與 stories/ 素材。GitHub 設定 Pages 的來源為 GitHub Actions。既有 README 內容保留。
+
+### 圖層與 HTML 成品
+
+- 右側「圖層」可加入多個文字方塊、對話框，以及保留透明背景的 PNG 圖片。
+- 點選圖層後可拖曳位置；右下角控制點縮放，上方圓點旋轉。也可輸入 X、Y、寬高與旋轉角度。
+- 圖層清單上方代表較前層，以「往前一層／往後一層」調整。底圖固定在最後，原有故事文字也可調整層次。
+- 圖片預設保持比例；文字樣式套用至選中的文字方塊或對話框。圖層資料會隨頁面保存，也包含於 JSON 備份。
+- HTML 匯出先依固定頁面尺寸，以 WebP 壓縮圖片，保留透明度；文字保持可選取。原始編輯素材不改動。
+- HTML 檔案以實際 Blob 大小檢查，最多 50,000,000 bytes（50 MB，含內嵌圖片與文字）。壓縮後仍超限則停止下載，提示減少素材或頁數，不私自改變選定尺寸。原圖 JSON 備份不受 HTML 成品的 50 MB 限制。
+- 成品在小螢幕等比例縮小顯示，畫布比例及設計尺寸保持鎖定。
