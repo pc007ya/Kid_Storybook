@@ -24,10 +24,16 @@
             "boxColor": "#ffffff",
             "boxOpacity": 85,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 0
           },
           "image": null,
-          "fit": "contain"
+          "fit": "contain",
+          "layers": [],
+          "layerOrder": [
+            "base"
+          ]
         }
       ],
       "pageSize": "2048x1536"
@@ -896,7 +902,9 @@
             "boxColor": "#101626",
             "boxOpacity": 82,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 0
           },
           "image": {
             "id": "yuyu-blackout-night-v1-cover.png",
@@ -909,7 +917,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-1",
@@ -1730,8 +1741,8 @@
       ]
     }
   ],
-  "bookId": "first-time-not-afraid-v1",
-  "pageId": "first-time-page-1",
+  "bookId": "yuyu-blackout-night-v1",
+  "pageId": "yuyu-blackout-night-v1-cover",
   "collapsed": false,
   "deletedBooks": [
     "0cfac241-839b-451c-bdd4-ce5c1a7c6298"
