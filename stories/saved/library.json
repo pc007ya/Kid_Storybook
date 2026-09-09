@@ -1914,9 +1914,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 26.14839702072539,
+            "y": 78.00295768566494,
+            "width": 45.925491148531954,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -1927,7 +1927,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 20.11640040299367
           },
           "image": {
             "id": "friends-1e0dd260c131ae2e7d3fa1914f2784204d37f3cb20db89c997831af2cdb327c8",
@@ -1954,9 +1954,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 25.581012521588946,
+            "y": 75.94930915371329,
+            "width": 48.64772236614853,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -1967,7 +1967,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 19.950885146804836
           },
           "image": {
             "id": "friends-d90253bf47f4a09537e2dc9dce36c684ef91d83ba8acd92fb9574bf7b599a65f",
@@ -1994,9 +1994,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 29.639734455958546,
+            "y": 75.33762233736327,
+            "width": 41.49570919689119,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2007,7 +2007,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.27140903857225
           },
           "image": {
             "id": "friends-28046d4a74a7926b66e856219eebbc6de80f19db3d68839898b6b6e7a89424ef",
@@ -2034,9 +2034,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 23.090862478411054,
+            "y": 71.22862694300517,
+            "width": 55.76600280656304,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2047,7 +2047,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 26.333117443868744
           },
           "image": {
             "id": "friends-76ed1667b9ac3ef3a1c4c0f01cb86b5e14fe21226eaaee89f8c34fe80ee99eda",
@@ -2074,9 +2074,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 32.084682642487046,
+            "y": 77.14479706390327,
+            "width": 38.315387521588946,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2087,7 +2087,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 20.54188255613126
           },
           "image": {
             "id": "friends-6a0ae95b5db0189bc93bf5569436145f9c10d91b662c0e2d98b6857757883fbd",
@@ -2114,9 +2114,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 20.4475658462867,
+            "y": 76.11482440990213,
+            "width": 66.50785297927462,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2127,7 +2127,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.639320667818076
           },
           "image": {
             "id": "friends-f621fe1b009eab5a8a3f6a275dd4ec028926c677cd7aba1209cb0b076eaee3a5",
@@ -2154,9 +2154,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 23.8309585492228,
+            "y": 76.43056275187104,
+            "width": 55.71540371329879,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2167,7 +2167,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 20.67591393206678
           },
           "image": {
             "id": "friends-2853c6dc1b68421e6966aba5e74a3c6d1c85c843c1031d24d20c0ae50f44b4fc",
@@ -2188,15 +2188,15 @@
         {
           "id": "yuyu-friends-v1-page-8",
           "title": "小小的不同意",
-          "text": "瑜瑜拿起彩色筆。\n「這裡畫彩虹！」\n湘湘指著同一塊空白。\n「可是，我想畫一棵大樹。」\n兩根手指停在紙上，誰也沒有先移開。",
+          "text": "瑜瑜拿起彩色筆。「這裡畫彩虹！」\n湘湘指著同一塊空白。「可是，我想畫一棵大樹。」\n兩根手指停在紙上，誰也沒有先移開。",
           "scene": "兩人各指空白區、表情堅持，手臂分開；同一張未完成畫。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 22.866877158894646,
+            "y": 81.72355354058722,
+            "width": 58.63261010362694,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2207,7 +2207,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 16.22139464594128
           },
           "image": {
             "id": "friends-61e3be51f7d682cffc9a4b356bdd8ddd85dac453da67df1c08aacf3f1ba326f5",
@@ -2228,15 +2228,15 @@
         {
           "id": "yuyu-friends-v1-page-9",
           "title": "一句話說重了",
-          "text": "「這樣不好看啦！」瑜瑜急急地說。\n湘湘的手停住了。\n「可是……」她只說了兩個字，就把筆放下。\n剛才熱鬧的小花園，忽然安靜了。",
+          "text": "「這樣不好看啦！」瑜瑜急急地說。\n湘湘的手停住了。「可是……」她只說了兩個字，就把筆放下。剛才熱鬧的小花園，忽然安靜了。",
           "scene": "中近景情緒轉折。瑜瑜著急而非惡意怒吼，湘湘受傷抿嘴；不加羞辱符號。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 22.8675518134715,
+            "y": 81.60741220495106,
+            "width": 56.51352007772021,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2247,7 +2247,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 16.92483448474381
           },
           "image": {
             "id": "friends-a3de8d1d0bf2fc875cb88c8c9cccfb0cdb8b05f59b124eb3177fce349ed25359",
@@ -2274,9 +2274,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 42.43928108808291,
+            "y": 78.68121042026482,
+            "width": 46.364691278065635,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2287,7 +2287,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 19.791666666666664
           },
           "image": {
             "id": "friends-710cc9097205a1bfbca14c8d6eeadc8ca5f69dbc7439757bba8b4a49a333deeb",
@@ -2314,9 +2314,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 27.909245466321245,
+            "y": 77.01166522740357,
+            "width": 51.657356433506045,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2327,7 +2327,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 20.820739781232007
           },
           "image": {
             "id": "friends-9e1df879dba1195843cf690a46a2ad60aead96a6dfdd086fa22cb1277c59e9a0",
@@ -2348,15 +2348,15 @@
         {
           "id": "yuyu-friends-v1-page-12",
           "title": "其實我也不開心",
-          "text": "午休前，瑜瑜看見她們以前一起做的小書籤。\n那時，她們笑得多開心呀。\n「我還在生氣嗎？」她想。\n心裡酸酸的，好像更是難過。\n她想念和湘湘一起玩的時候。",
+          "text": "午休前，瑜瑜看見她們以前一起做的小書籤。\n那時，她們笑得多開心呀。\n「我還在生氣嗎？」她想。心裡酸酸的，好像更是難過。她想念和湘湘一起玩的時候。",
           "scene": "瑜瑜安靜看雙人花草書籤近景，既有作業不是本次未完成大畫。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 21.648450993091537,
+            "y": 77.4597366148532,
+            "width": 54.900420984455955,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2367,7 +2367,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.00064766839379
           },
           "image": {
             "id": "friends-6197c34765e48dad846ac7eacce55106a05fbb404ea7a35fa70980162f24b22b",
@@ -2388,15 +2388,15 @@
         {
           "id": "yuyu-friends-v1-page-13",
           "title": "老師先聽一聽",
-          "text": "老師注意到她們今天很安靜。\n她沒有急著說誰對、誰錯。\n「你最希望湘湘知道什麼？」她問瑜瑜。\n等瑜瑜說完，老師也去聽湘湘的想法。",
+          "text": "老師注意到她們今天很安靜。她沒有急著說誰對、誰錯。\n「你最希望湘湘知道什麼？」她問瑜瑜。\n等瑜瑜說完，老師也去聽湘湘的想法。",
           "scene": "只畫一個時刻：老師蹲下聽瑜瑜說，湘湘安全背景。不可同格複製老師。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 27.11045444732297,
+            "y": 77.70880829015543,
+            "width": 47.95417746113989,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2407,7 +2407,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 20.830634715025905
           },
           "image": {
             "id": "friends-0818ae4d0d925bd29721033cffbc5055116e2e9e257272f8b33833599e477601",
@@ -2428,15 +2428,15 @@
         {
           "id": "yuyu-friends-v1-page-14",
           "title": "原來她也有想法",
-          "text": "後來，她們一起看著那張畫。\n湘湘小聲說：「我不是不要彩虹。我昨天看到一棵好大的樹，很想畫下來。」\n瑜瑜愣了一下。\n原來，湘湘也有一個想放進畫裡的故事。",
+          "text": "後來，她們一起看著那張畫。\n湘湘小聲說：「我不是不要彩虹。我昨天看到一棵好大的樹，很想畫下來。」瑜瑜愣了一下。\n原來，湘湘也有一個想放進畫裡的故事。",
           "scene": "兩女孩桌旁老師居中偏後傾聽，湘湘解釋，瑜瑜放鬆；樹尚未完成。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 23.877509715025905,
+            "y": 76.88403137593552,
+            "width": 55.50963406735752,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2447,7 +2447,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.60333909038572
           },
           "image": {
             "id": "friends-c17c6bb9a4ce9f870b67dbc05c448327e67f4c7818405a61d7b1efe3848fd40d",
@@ -2468,15 +2468,15 @@
         {
           "id": "yuyu-friends-v1-page-15",
           "title": "要不要先說對不起",
-          "text": "瑜瑜拿起未完成的畫，走到湘湘身邊。\n「我可以坐這裡嗎？」\n湘湘輕輕點頭。\n瑜瑜吸了一口氣。\n這一次，她想慢慢把話說清楚。",
+          "text": "瑜瑜拿起未完成的畫，走到湘湘身邊。\n「我可以坐這裡嗎？」\n湘湘輕輕點頭。瑜瑜吸了一口氣。\n這一次，她想慢慢把話說清楚。",
           "scene": "瑜瑜雙手拿畫靠近，湘湘坐著點頭；紙面方向和前頁一致，不畫成完成作品。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 26.364961139896373,
+            "y": 77.17818077144501,
+            "width": 46.571135578583764,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2487,7 +2487,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.122985031663795
           },
           "image": {
             "id": "friends-edd70cac99b0db98abdac1a2b4b8cb598f3518f822a77c8bc5ba8d791cf6d358",
@@ -2514,9 +2514,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 19.353276122625218,
+            "y": 77.82215025906736,
+            "width": 65.8311744386874,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2527,7 +2527,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.27320811744387
           },
           "image": {
             "id": "friends-43ff7af800c462d4a991e7a61652d6b39513be48de5c4b63660531fcc5dd98c3",
@@ -2554,9 +2554,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 57.3329555267703,
+            "y": 55.28508923431202,
+            "width": 31.256476683937823,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2567,7 +2567,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 36.115608808290155
           },
           "image": {
             "id": "friends-2e9306e25c80d04396bf96271c1cddc4f1341e8ffaf0dfb945fb6f23c4dbe079",
@@ -2588,15 +2588,15 @@
         {
           "id": "yuyu-friends-v1-page-18",
           "title": "兩個人的小花園",
-          "text": "畫完成了。\n左邊的大樹張開枝葉，右邊的彩虹彎彎的。\n樹下，兩個小朋友站在一起。\n「這是我們的小花園！」\n兩個人的想法，都有了自己的位置。",
+          "text": "畫完成了。左邊的大樹張開枝葉，右邊的彩虹彎彎的。\n樹下，兩個小朋友站在一起。「這是我們的小花園！」\n兩個人的想法，都有了自己的位置。",
           "scene": "兩人舉完成作品展示，畫上左樹右彩虹布局鎖定；笑容自然。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 18.812203151986186,
+            "y": 76.97128670120898,
+            "width": 63.79236830742659,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2607,7 +2607,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 17.39439407023604
           },
           "image": {
             "id": "friends-53ed576a2df18016802acef8d82a8b124826826cad6d739b57b17e76b2e89735",
@@ -2628,15 +2628,15 @@
         {
           "id": "yuyu-friends-v1-page-19",
           "title": "放學一起走",
-          "text": "放學了，瑜瑜和湘湘一起走向校門。\n「明天還一起跳格子嗎？」\n「好呀，換你先跳。」\n她們看見等候的家長，揮揮手。\n今天，她們又走回了彼此身邊。",
+          "text": "放學了，瑜瑜和湘湘一起走向校門。「明天還一起跳格子嗎？」「好呀，換你先跳。」\n她們看見等候的家長，揮揮手。今天，她們又走回了彼此身邊。",
           "scene": "夕陽校門安全接送區，兩女孩並肩；瑜瑜媽媽遠景接送，保持第一本造型。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 23.443032167530227,
+            "y": 75.35481433506045,
+            "width": 53.63881692573403,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2647,7 +2647,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 19.905008635578582
           },
           "image": {
             "id": "friends-f492a7e78f42d2a0c9f62b51ae5c2e6090148926d8038bc6ca0068ae29ea8bbc",
@@ -2668,15 +2668,15 @@
         {
           "id": "yuyu-friends-v1-page-20",
           "title": "再牽回彼此的手",
-          "text": "隔天早上，她們又在校門口碰面。\n「早安！」\n好朋友不是永遠都不生氣。\n是生氣以後，還願意說一說、聽一聽，\n再牽回彼此的手。",
+          "text": "隔天早上，她們又在校門口碰面。\n「早安！」好朋友不是永遠都不生氣。\n是生氣以後，還願意說一說、聽一聽，\n再牽回彼此的手。",
           "scene": "與第1頁呼應晨光，兩人輕牽手步入校園；只一組接觸手，清楚解剖。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 25.715943436960277,
+            "y": 76.62496401842257,
+            "width": 46.527957685664944,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2687,7 +2687,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.466609096142783
           },
           "image": {
             "id": "friends-ea6871cb900260529cce009ca6386fdbfa24b0003d391cbc5b7b688b5b6800cc",
