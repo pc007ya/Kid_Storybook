@@ -880,7 +880,7 @@
       "subtitle": "歡樂卻不間斷",
       "overview": "瑜瑜的成長故事系列｜歡樂卻不間斷。停電後，全家用手電筒玩手勢、接龍說故事，最後看窗外星星。10場景、20頁正文，封面另計。原生圖片1448×1086，文字獨立可編輯。影片時間為估算，尚無配音或成片。",
       "source": "原創：瑜瑜系列《停電的晚上》正式圖 v1",
-      "pageSize": "2048x1536",
+      "pageSize": "1920x1080",
       "pages": [
         {
           "id": "yuyu-blackout-night-v1-cover",
@@ -900,7 +900,7 @@
             "backdrop": true,
             "showText": false,
             "boxColor": "#101626",
-            "boxOpacity": 65,
+            "boxOpacity": 82,
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
@@ -936,9 +936,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 18.521196705426355,
+            "y": 83.95936961670974,
+            "width": 65.1968871124031,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -947,7 +947,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 15.102147932816539
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page01.png",
@@ -960,7 +962,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-2",
@@ -979,9 +984,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 16.805020591085274,
+            "y": 83.57883828596037,
+            "width": 66.04551235465117,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -990,7 +995,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 15.00491225236865
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page02.png",
@@ -1003,7 +1010,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-3",
@@ -1019,9 +1029,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 13.494549418604652,
+            "y": 81.76399655469422,
+            "width": 71.97529069767441,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1030,7 +1040,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 18.113425925925924
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page03.png",
@@ -1043,7 +1055,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-4",
@@ -1061,9 +1076,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 16.11309956395349,
+            "y": 84.31904069767441,
+            "width": 67.66857437015504,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1072,7 +1087,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 14.900947459086996
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page04.png",
@@ -1085,7 +1102,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-5",
@@ -1102,9 +1122,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 16.583212209302324,
+            "y": 83.8288248277347,
+            "width": 68.45966569767441,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1113,7 +1133,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 15.601448105081829
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page05.png",
@@ -1126,7 +1148,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-6",
@@ -1143,9 +1168,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 13.126635174418604,
+            "y": 77.75310885012921,
+            "width": 74.06695130813954,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1154,7 +1179,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 22.180165267011198
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page06.png",
@@ -1167,7 +1194,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-7",
@@ -1185,9 +1215,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 17.07073643410853,
+            "y": 83.10544519810507,
+            "width": 64.65485707364341,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1196,7 +1226,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 15.971212855297159
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page07.png",
@@ -1209,7 +1241,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-8",
@@ -1225,9 +1260,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 16.960210755813957,
+            "y": 84.12019541343669,
+            "width": 63.75248304263566,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1236,7 +1271,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 14.746177863910424
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page08.png",
@@ -1249,7 +1286,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-9",
@@ -1265,9 +1305,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 14.159217538759686,
+            "y": 83.29486972437554,
+            "width": 68.20606225775194,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1276,7 +1316,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 15.897192614125755
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page09.png",
@@ -1289,7 +1331,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-10",
@@ -1304,9 +1349,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 16.521893168604652,
+            "y": 83.15995101205857,
+            "width": 64.31798086240309,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1315,7 +1360,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 15.988372093023258
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page10.png",
@@ -1328,7 +1375,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-11",
@@ -1345,9 +1395,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 15.851925872093023,
+            "y": 83.5983527131783,
+            "width": 66.52925145348837,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1356,7 +1406,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 15.542568367786394
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page11.png",
@@ -1369,7 +1421,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-12",
@@ -1385,18 +1440,20 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 14.60737645348837,
+            "y": 82.75721360895778,
+            "width": 69.76326308139535,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
             "backdrop": true,
             "showText": true,
             "boxColor": "#101626",
-            "boxOpacity": 65,
+            "boxOpacity": 82,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 17.345297695951768
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page12.png",
@@ -1409,7 +1466,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-13",
@@ -1426,9 +1486,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 20.1109496124031,
+            "y": 83.66396156330751,
+            "width": 58.47147529069767,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1437,7 +1497,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 14.864273794142981
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page13.png",
@@ -1450,7 +1512,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-14",
@@ -1466,9 +1531,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 20.53791182170543,
+            "y": 83.14750215331611,
+            "width": 60.52831274224806,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1477,7 +1542,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 16.87224106373816
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page14.png",
@@ -1490,7 +1557,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-15",
@@ -1506,9 +1576,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 20.088238856589147,
+            "y": 83.72250484496124,
+            "width": 60.003694282945744,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1517,7 +1587,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 16.70939653316107
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page15.png",
@@ -1530,7 +1602,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-16",
@@ -1548,9 +1623,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 15.602864583333332,
+            "y": 83.11385658914729,
+            "width": 65.8365734011628,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1559,7 +1634,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 15.719544035314387
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page16.png",
@@ -1572,7 +1649,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-17",
@@ -1587,9 +1667,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 24.55922965116279,
+            "y": 83.09837962962963,
+            "width": 61.1944949127907,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1598,7 +1678,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 15.813751614987082
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page17.png",
@@ -1611,7 +1693,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-18",
@@ -1628,9 +1713,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 18.445494186046513,
+            "y": 82.47795542635659,
+            "width": 63.451944040697676,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1639,7 +1724,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 16.265611541774334
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page18.png",
@@ -1652,7 +1739,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-19",
@@ -1670,9 +1760,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 16.39017078488372,
+            "y": 83.3275059216193,
+            "width": 67.06749636627907,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1681,7 +1771,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 16.334921403962106
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page19.png",
@@ -1694,7 +1786,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         },
         {
           "id": "yuyu-blackout-night-v1-page-20",
@@ -1712,9 +1807,9 @@
             "font": "sans",
             "color": "#ffffff",
             "size": 26,
-            "x": 6,
-            "y": 73,
-            "width": 88,
+            "x": 15.456001695736433,
+            "y": 76.2474698535745,
+            "width": 70.5242550872093,
             "lineHeight": 1.5,
             "paragraphGap": 8,
             "align": "left",
@@ -1723,7 +1818,9 @@
             "boxColor": "#101626",
             "boxOpacity": 65,
             "borderColor": "#233342",
-            "borderWidth": 0
+            "borderWidth": 0,
+            "rotation": 0,
+            "height": 22.167379952627048
           },
           "image": {
             "id": "yuyu-blackout-night-v1-page20.png",
@@ -1736,7 +1833,10 @@
           },
           "fit": "contain",
           "layers": [],
-          "bundledImageVersion": 1
+          "bundledImageVersion": 1,
+          "layerOrder": [
+            "base"
+          ]
         }
       ]
     },
