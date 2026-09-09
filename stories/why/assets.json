@@ -1,0 +1,20 @@
+{
+  "clean": {
+    "id": "why-b3daf4eded7a097105ab69044bffcb8e51ae7871df65f8dbd770c349aa8570e6",
+    "name": "cover.png",
+    "asset": "stories/saved/images/b3daf4eded7a097105ab69044bffcb8e51ae7871df65f8dbd770c349aa8570e6.png",
+    "width": 1448,
+    "height": 1086,
+    "type": "image/png",
+    "size": 2047946
+  },
+  "selected": {
+    "id": "why-bc07b3c4b7ec076b56a54042fe628a932ec8f6f7ede9cf4a2dbd7823dc860d27",
+    "name": "cover-titled-A.png",
+    "asset": "stories/saved/images/bc07b3c4b7ec076b56a54042fe628a932ec8f6f7ede9cf4a2dbd7823dc860d27.png",
+    "width": 1448,
+    "height": 1086,
+    "type": "image/png",
+    "size": 2157413
+  }
+}

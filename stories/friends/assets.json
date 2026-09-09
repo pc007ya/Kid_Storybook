@@ -1,0 +1,20 @@
+{
+  "clean": {
+    "id": "friends-f53921f3a39f515727c52d179e0725d41dc38b7231c19a0fed5137158c42b36d",
+    "name": "cover.png",
+    "asset": "stories/saved/images/f53921f3a39f515727c52d179e0725d41dc38b7231c19a0fed5137158c42b36d.png",
+    "width": 1448,
+    "height": 1086,
+    "type": "image/png",
+    "size": 2262637
+  },
+  "selected": {
+    "id": "friends-3c53436725ad7fdd5ce27339dd55faad63aa167c19027a8978f2351302ceeb78",
+    "name": "cover-titled-A.png",
+    "asset": "stories/saved/images/3c53436725ad7fdd5ce27339dd55faad63aa167c19027a8978f2351302ceeb78.png",
+    "width": 1448,
+    "height": 1086,
+    "type": "image/png",
+    "size": 2334475
+  }
+}

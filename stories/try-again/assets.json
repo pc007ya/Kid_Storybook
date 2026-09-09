@@ -1,0 +1,20 @@
+{
+  "clean": {
+    "id": "try-again-31ee3cb05762ff076833e8bd49a4a3b87d428ddf0a88d5fb9109f99ea7d0f73f",
+    "name": "cover.png",
+    "asset": "stories/saved/images/31ee3cb05762ff076833e8bd49a4a3b87d428ddf0a88d5fb9109f99ea7d0f73f.png",
+    "width": 1448,
+    "height": 1086,
+    "type": "image/png",
+    "size": 2409891
+  },
+  "selected": {
+    "id": "try-again-cff89be9bf60e0683215854aae5aa5233d5481f883d8aa034923d6131635787d",
+    "name": "cover-titled-A.png",
+    "asset": "stories/saved/images/cff89be9bf60e0683215854aae5aa5233d5481f883d8aa034923d6131635787d.png",
+    "width": 1448,
+    "height": 1086,
+    "type": "image/png",
+    "size": 2437863
+  }
+}

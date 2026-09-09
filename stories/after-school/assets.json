@@ -1,0 +1,20 @@
+{
+  "clean": {
+    "id": "after-school-28bbf5c33b04db7476d433a865845a607f39d81eea745d9df37d51bbd59296c3",
+    "name": "cover.png",
+    "asset": "stories/saved/images/28bbf5c33b04db7476d433a865845a607f39d81eea745d9df37d51bbd59296c3.png",
+    "width": 1448,
+    "height": 1086,
+    "type": "image/png",
+    "size": 2602911
+  },
+  "selected": {
+    "id": "after-school-566f1b794c0eb7395dc49623144a1e5c78959151fce3e368c48958302d112cc8",
+    "name": "cover-titled-A.png",
+    "asset": "stories/saved/images/566f1b794c0eb7395dc49623144a1e5c78959151fce3e368c48958302d112cc8.png",
+    "width": 1448,
+    "height": 1086,
+    "type": "image/png",
+    "size": 2635116
+  }
+}

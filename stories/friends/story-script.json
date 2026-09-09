@@ -1,0 +1,190 @@
+{
+  "title": "我的好朋友",
+  "series": "瑜瑜的成長故事",
+  "status": "20頁正式圖與封面完成",
+  "format": "20 Scene = 20正文頁，封面另計",
+  "continuity": "第1–6頁第一天；第7–19頁第二天；第20頁第三天。湘湘的辮子、瑜瑜制服及書包沿用第一本參考圖。",
+  "pages": [
+    {
+      "page": 1,
+      "scene": 1,
+      "title": "每天一起進教室",
+      "narration": "每天早上，瑜瑜都會在校門口找一找。\n看見湘湘的辮子，她就笑了。\n「等我一下！」\n兩個人揹著書包，一起走進教室。",
+      "artDirection": "校門中遠景；瑜瑜星形髮夾、湘湘雙辮子，沿用第一本制服書包。相互等待，不奔跑穿車道。",
+      "image": "page01.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 2,
+      "scene": 2,
+      "title": "一起放書包",
+      "narration": "「水壺放好了嗎？」湘湘問。\n「放好了！你的聯絡簿呢？」瑜瑜也問。\n書包掛好，桌面排整齊。\n有朋友提醒，早晨好像更容易開始。",
+      "artDirection": "教室雙人中景，分開整理各自桌面；清楚兩雙手，物件不重疊。",
+      "image": "page02.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 3,
+      "scene": 3,
+      "title": "一起上課",
+      "narration": "老師問了一個問題，湘湘舉起手。\n瑜瑜坐得直直的，偷偷替她加油。\n湘湘說完答案，轉頭看了看她。\n瑜瑜回了一個小小的笑。",
+      "artDirection": "湘湘舉一手、另一手桌上；瑜瑜側面看她微笑。老师遠景不搶焦點。",
+      "image": "page03.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 4,
+      "scene": 4,
+      "title": "一起借文具",
+      "narration": "瑜瑜畫錯了一條線，卻找不到橡皮擦。\n湘湘把自己的推過來。\n「借你。」\n「謝謝，我用完就還你。」\n一塊小小的橡皮擦，在兩張桌子之間走了一趟。",
+      "artDirection": "桌面近景，橡皮擦放桌上推給對方，避免空中交疊的手。",
+      "image": "page04.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 5,
+      "scene": 5,
+      "title": "一起下課",
+      "narration": "下課了，兩人走到遊戲區。\n「這次換你先跳！」\n瑜瑜跳進格子，湘湘在旁邊數。\n笑聲一格一格，跳進了陽光裡。",
+      "artDirection": "戶外地面跳格子；一人跳一人站旁，無高處危險，格子不印文字。",
+      "image": "page05.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 6,
+      "scene": 6,
+      "title": "一起吃午餐",
+      "narration": "午餐時，兩人坐在附近。\n「今天的南瓜甜甜的。」瑜瑜說。\n「我喜歡這個青菜！」湘湘說。\n她們聊著各自喜歡的菜，也記得把自己的午餐好好吃完。",
+      "artDirection": "第一天午餐中景，各自餐盤與湯匙，不互換食物；開心聊天。",
+      "image": "page06.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 7,
+      "scene": 7,
+      "title": "一起完成作品",
+      "narration": "隔天上午，美術課要兩人合作畫一張大圖。\n瑜瑜畫天空，湘湘畫花草。\n「這裡還有好多空白呢！」\n她們把彩色筆排開，想把畫紙變成一座小花園。",
+      "artDirection": "第二天上午起。俯視同一張橫向紙，天空淡藍、下方花草，中央留白；彩虹大樹尚未畫。",
+      "image": "page07.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 8,
+      "scene": 8,
+      "title": "小小的不同意",
+      "narration": "瑜瑜拿起彩色筆。\n「這裡畫彩虹！」\n湘湘指著同一塊空白。\n「可是，我想畫一棵大樹。」\n兩根手指停在紙上，誰也沒有先移開。",
+      "artDirection": "兩人各指空白區、表情堅持，手臂分開；同一張未完成畫。",
+      "image": "page08.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 9,
+      "scene": 9,
+      "title": "一句話說重了",
+      "narration": "「這樣不好看啦！」瑜瑜急急地說。\n湘湘的手停住了。\n「可是……」她只說了兩個字，就把筆放下。\n剛才熱鬧的小花園，忽然安靜了。",
+      "artDirection": "中近景情緒轉折。瑜瑜著急而非惡意怒吼，湘湘受傷抿嘴；不加羞辱符號。",
+      "image": "page09.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 10,
+      "scene": 10,
+      "title": "誰也不說話",
+      "narration": "下課時，湘湘先走到走廊。\n瑜瑜留在窗邊，沒有叫住她。\n她們都想偷偷看一眼，卻又把頭轉開。\n明明沒有走多遠，今天的距離卻好長。",
+      "artDirection": "窗內外同框，兩人仍在老師可照看的教室走廊區，安全窗戶不攀爬。",
+      "image": "page10.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 11,
+      "scene": 11,
+      "title": "午餐也安靜了",
+      "narration": "到了午餐時間，兩人沒有坐在附近。\n瑜瑜看見湘湘低頭吃飯，又趕快移開眼睛。\n今天也有喜歡的菜。\n可是她最想說的那句話，一直沒有說出口。",
+      "artDirection": "第二天午餐，兩人在同教室不同座位；不是同一天第二頓午餐，不誇張孤立霸凌。",
+      "image": "page11.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 12,
+      "scene": 12,
+      "title": "其實我也不開心",
+      "narration": "午休前，瑜瑜看見她們以前一起做的小書籤。\n那時，她們笑得多開心呀。\n「我還在生氣嗎？」她想。\n心裡酸酸的，好像更是難過。\n她想念和湘湘一起玩的時候。",
+      "artDirection": "瑜瑜安靜看雙人花草書籤近景，既有作業不是本次未完成大畫。",
+      "image": "page12.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 13,
+      "scene": 13,
+      "title": "老師先聽一聽",
+      "narration": "老師注意到她們今天很安靜。\n她沒有急著說誰對、誰錯。\n「你最希望湘湘知道什麼？」她問瑜瑜。\n等瑜瑜說完，老師也去聽湘湘的想法。",
+      "artDirection": "只畫一個時刻：老師蹲下聽瑜瑜說，湘湘安全背景。不可同格複製老師。",
+      "image": "page13.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 14,
+      "scene": 14,
+      "title": "原來她也有想法",
+      "narration": "後來，她們一起看著那張畫。\n湘湘小聲說：「我不是不要彩虹。我昨天看到一棵好大的樹，很想畫下來。」\n瑜瑜愣了一下。\n原來，湘湘也有一個想放進畫裡的故事。",
+      "artDirection": "兩女孩桌旁老師居中偏後傾聽，湘湘解釋，瑜瑜放鬆；樹尚未完成。",
+      "image": "page14.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 15,
+      "scene": 15,
+      "title": "要不要先說對不起",
+      "narration": "瑜瑜拿起未完成的畫，走到湘湘身邊。\n「我可以坐這裡嗎？」\n湘湘輕輕點頭。\n瑜瑜吸了一口氣。\n這一次，她想慢慢把話說清楚。",
+      "artDirection": "瑜瑜雙手拿畫靠近，湘湘坐著點頭；紙面方向和前頁一致，不畫成完成作品。",
+      "image": "page15.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 16,
+      "scene": 16,
+      "title": "我剛剛說得太兇了",
+      "narration": "「我剛剛說得太兇了，對不起。」瑜瑜說。\n「我只是很想畫彩虹，沒有先聽你說。」\n湘湘也低聲說：「我後來故意不理你。其實，我很難過。」\n她們終於看著彼此，把心裡的話說了出來。",
+      "artDirection": "平視雙人特寫，歉意、坦誠，不強迫擁抱或突然大笑；手放桌上。",
+      "image": "page16.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 17,
+      "scene": 17,
+      "title": "一起把畫完成",
+      "narration": "「大樹放左邊，彩虹放右邊，好不好？」瑜瑜問。\n「好！樹下面還可以有兩個小朋友。」湘湘說。\n她們重新拿起筆。\n這一次，一邊畫，也一邊問問對方。",
+      "artDirection": "俯視作品進行中，畫面左樹右彩虹、底部兩小朋友；兩人各用一支筆。",
+      "image": "page17.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 18,
+      "scene": 18,
+      "title": "兩個人的小花園",
+      "narration": "畫完成了。\n左邊的大樹張開枝葉，右邊的彩虹彎彎的。\n樹下，兩個小朋友站在一起。\n「這是我們的小花園！」\n兩個人的想法，都有了自己的位置。",
+      "artDirection": "兩人舉完成作品展示，畫上左樹右彩虹布局鎖定；笑容自然。",
+      "image": "page18.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 19,
+      "scene": 19,
+      "title": "放學一起走",
+      "narration": "放學了，瑜瑜和湘湘一起走向校門。\n「明天還一起跳格子嗎？」\n「好呀，換你先跳。」\n她們看見等候的家長，揮揮手。\n今天，她們又走回了彼此身邊。",
+      "artDirection": "夕陽校門安全接送區，兩女孩並肩；瑜瑜媽媽遠景接送，保持第一本造型。",
+      "image": "page19.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 20,
+      "scene": 20,
+      "title": "再牽回彼此的手",
+      "narration": "隔天早上，她們又在校門口碰面。\n「早安！」\n好朋友不是永遠都不生氣。\n是生氣以後，還願意說一說、聽一聽，\n再牽回彼此的手。",
+      "artDirection": "與第1頁呼應晨光，兩人輕牽手步入校園；只一組接觸手，清楚解剖。",
+      "image": "page20.png",
+      "imageStatus": "generated-reviewed"
+    }
+  ],
+  "actualImageSize": "1448×1086"
+}

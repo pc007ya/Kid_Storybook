@@ -1,0 +1,191 @@
+{
+  "title": "放學以後",
+  "series": "瑜瑜的成長故事",
+  "status": "20頁正式圖與封面完成",
+  "format": "20 Scene = 20正文頁，封面另計",
+  "approvedAdaptation": "使用者已確認：家長在附近照看，瑜瑜自己完成購物；先送回食材，再去公園。",
+  "continuity": "第1–10頁放學購物；第11頁回家冷藏食材；第12–17頁媽媽陪伴公園探索；第18–20頁到家分享與睡前收尾。第12頁起無書包與購物袋，第20頁換睡衣。",
+  "pages": [
+    {
+      "page": 1,
+      "scene": 1,
+      "title": "放學鐘響",
+      "narration": "放學鐘響了。\n瑜瑜收好鉛筆盒，把椅子推回桌下。\n「老師再見！」\n下午的陽光照進教室，今天的小冒險正要開始。",
+      "artDirection": "教室下午中景，瑜瑜整理書包；制服與第一本一致。",
+      "image": "page01.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 2,
+      "scene": 2,
+      "title": "校門口道別",
+      "narration": "到了校門口，瑜瑜看見媽媽。\n她轉過身，向湘湘揮揮手。\n「明天見！」\n「明天見！」\n兩個朋友，各自走向等候的家人。",
+      "artDirection": "校門接送區，湘湘雙辮子；瑜瑜媽媽粉桃直條上衣、米色長裙。",
+      "image": "page02.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 3,
+      "scene": 3,
+      "title": "媽媽的小任務",
+      "narration": "「家裡需要牛奶和雞蛋。」媽媽說。\n「今天，讓你當採買小幫手，好嗎？」\n她把購物小紙條和零錢交給瑜瑜。\n「我陪你去，你來試著買。」",
+      "artDirection": "媽媽蹲下交紙條與小零錢包，物品一一可辨；不散落現金，不跨馬路交物。",
+      "image": "page03.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 4,
+      "scene": 4,
+      "title": "先確認要買什麼",
+      "narration": "瑜瑜看著小紙條，念了一遍：\n「牛奶一瓶，雞蛋一盒。」\n她放好書包，把紙條和零錢包收好。\n「買完先回家，再去公園。」\n她和媽媽把順序也說好了。",
+      "artDirection": "紙條近景，用牛奶瓶與一盒蛋小圖，不讓生成字取代後製清單。",
+      "image": "page04.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 5,
+      "scene": 5,
+      "title": "今天換我帶路",
+      "narration": "熟悉的小巷，今天好像有點不一樣。\n「小店在這邊！」瑜瑜說。\n媽媽走在她身旁，讓她認一認路。\n瑜瑜覺得，自己的眼睛比平常更忙了。",
+      "artDirection": "母女走人行道，家長在孩子靠車道外側，店鋪無品牌文字。",
+      "image": "page05-street-v2.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 6,
+      "scene": 6,
+      "title": "到了路口先停下",
+      "narration": "到了路口，瑜瑜停在線後。\n她牽好媽媽的手，等行人綠燈亮起。\n媽媽和她一起確認兩邊的車都停了，才走斑馬線。\n「不著急，平安到才重要。」",
+      "artDirection": "只畫等候一個時刻：母女在路緣後，人行紅燈、車行道清楚。絕不同格多個互相衝突號誌。",
+      "image": "page06.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 7,
+      "scene": 7,
+      "title": "小店到了",
+      "narration": "小店的門打開了。\n「你好！」瑜瑜向店員打招呼。\n媽媽在她旁邊拿起購物籃。\n「今天你來找，我幫你拿籃子。」",
+      "artDirection": "社區雜貨店入口，兩人一起入店；無品牌招牌。",
+      "image": "page07.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 8,
+      "scene": 8,
+      "title": "牛奶找到了",
+      "narration": "瑜瑜在冷藏櫃看見牛奶。\n「找到第一樣了！」\n她和媽媽確認要買的那一瓶，把它放進籃子。\n可是，雞蛋在哪裡呢？",
+      "artDirection": "牛奶從低層冷藏櫃取出，媽媽扶籃；冷藏櫃門正常不穿手。",
+      "image": "page08.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 9,
+      "scene": 9,
+      "title": "請問雞蛋在哪裡",
+      "narration": "瑜瑜看看媽媽，又看看店員。\n她鼓起勇氣說：\n「請問，雞蛋在哪裡？」\n店員指向旁邊的架子。\n原來，不知道的時候，可以好好開口問。",
+      "artDirection": "孩子面向櫃台店員提問，媽媽一旁鼓勵；不安排跟陌生人去隱蔽處。",
+      "image": "page09.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 10,
+      "scene": 10,
+      "title": "我來付錢",
+      "narration": "瑜瑜把牛奶和雞蛋放到櫃台。\n她拿出零錢，請媽媽陪她一起核對。\n「謝謝！」\n收好找零和收據，她仔細拉上零錢包。\n小任務，完成了！",
+      "artDirection": "櫃台俯視，蛋盒蓋好，牛奶一瓶；錢在托盤，不用可讀價格與錯誤算式。",
+      "image": "page10.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 11,
+      "scene": 11,
+      "title": "先送食材回家",
+      "narration": "回家的路上，媽媽提著購物袋，瑜瑜走在旁邊。\n「雞蛋不能碰撞，牛奶也要先放好。」\n到家後，她幫忙把東西交給媽媽，放進冰箱。\n現在，可以安心去公園了。",
+      "artDirection": "只畫到家廚房交接食材時刻；媽媽處理冷藏，瑜瑜站地面不攀高。",
+      "image": "page11.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 12,
+      "scene": 12,
+      "title": "公園的小約定",
+      "narration": "洗好手，喝口水，母女倆又出了門。\n公園就在家附近。\n「我們走一小圈，晚餐前回家。」媽媽說。\n「我會待在你看得到的地方！」瑜瑜答應。",
+      "artDirection": "公園入口，孩子已無書包、無購物袋；媽媽一起，仍有日光。",
+      "image": "page12.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 13,
+      "scene": 13,
+      "title": "準備好再探索",
+      "narration": "到了長椅旁，瑜瑜停下腳步。\n她檢查鞋帶，媽媽幫忙把鬆開的地方綁好。\n「準備好了！」\n這次，她不用擔心碰破雞蛋，可以慢慢看、慢慢找。",
+      "artDirection": "媽媽單膝蹲繫鞋帶，孩子坐穩長椅；無購物食材，水瓶媽媽持有或包內。",
+      "image": "page13.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 14,
+      "scene": 14,
+      "title": "地面的小世界",
+      "narration": "一片葉子躺在小路旁。\n葉子附近，有慢慢爬的蝸牛，也有忙忙碌碌的螞蟻。\n瑜瑜蹲下來看。\n她不踩、不抓，只用眼睛跟著牠們走。",
+      "artDirection": "低機位孩子觀察落葉和小蝸牛，螞蟻細小比例正常；媽媽在近處，不觸碰野生生物。",
+      "image": "page14.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 15,
+      "scene": 15,
+      "title": "安靜的小觀眾",
+      "narration": "矮樹枝上，停著一隻小鳥。\n瑜瑜本來想叫媽媽，馬上又放輕聲音。\n「你看……」\n母女倆留在原地，安靜地看。\n小鳥抖抖羽毛，唱了兩聲。",
+      "artDirection": "母女與鳥保持距離，不靠近鳥巢，不餵食；枝上正常小鳥，不巨大化。",
+      "image": "page15.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 16,
+      "scene": 16,
+      "title": "還想再看一下",
+      "narration": "瑜瑜看得入迷，還想再找一隻蝸牛。\n這時，媽媽輕聲提醒：「快到約好的時間了。」\n瑜瑜看看天色。\n「啊，我差點忘記！」\n好玩的事，也要記得時間。",
+      "artDirection": "媽媽指自己的手錶、瑜瑜抬頭；夕陽仍明亮，不已天黑才想回去。",
+      "image": "page16-watch-v2.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 17,
+      "scene": 17,
+      "title": "我們回家吧",
+      "narration": "瑜瑜在地上挑了一片乾淨的落葉，先問媽媽能不能帶回家。\n她沒有摘樹上的葉子，也沒有帶走小動物。\n「明天再來看你們！」\n她牽著媽媽，沿著熟悉的路回家。",
+      "artDirection": "母女在公園出口，孩子拿一片落葉，另一手牽媽媽；夕陽不夜行。",
+      "image": "page17.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 18,
+      "scene": 18,
+      "title": "平平安安到家",
+      "narration": "家門打開，爸爸探出頭來。\n「今天的小探險，順利嗎？」\n「順利！」瑜瑜說。\n她把葉子先放好，換鞋、洗手。\n再等一下，她有好多故事要說。",
+      "artDirection": "家門迎接單一時刻，爸爸固定淺藍襯衫白T卡其褲；不要同格又洗手又開門。",
+      "image": "page18.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 19,
+      "scene": 19,
+      "title": "今天我做到了",
+      "narration": "晚餐前，瑜瑜一件一件說給爸爸聽。\n「我自己問店員，也試著付錢！」\n「公園有蝸牛，還有一隻小鳥。」\n她想了想，又說：「我差點忘記時間。下次，我也要記得看看。」",
+      "artDirection": "餐桌前全家分享，妈妈開眼溫柔聽，爸爸驚喜；橘皮小貓可在旁邊椅子，不上餐盤。",
+      "image": "page19.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 20,
+      "scene": 20,
+      "title": "家附近的小冒險",
+      "narration": "晚上，瑜瑜把落葉收進小盒子。\n橘皮小貓靠在枕頭旁，像也在聽今天的故事。\n原來，冒險不一定要去很遠。\n家旁的小路、小店和公園，就有好多新發現。\n最重要的是，平平安安回家，把故事說給最愛的人聽。",
+      "artDirection": "臥室睡前粉色兔子睡衣，橘皮玩偶固定黑白臉黃眼綠葉，開盒放葉；其他頁不把玩偶活化。",
+      "image": "page20.png",
+      "imageStatus": "generated-reviewed"
+    }
+  ],
+  "actualImageSize": "1448×1086"
+}

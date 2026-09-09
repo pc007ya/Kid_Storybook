@@ -1,0 +1,202 @@
+{
+  "title": "我可以再試一次",
+  "series": "瑜瑜的成長故事",
+  "status": "20頁正式圖與封面完成",
+  "format": {
+    "sceneCount": 20,
+    "interiorPageCount": 20,
+    "coverSeparate": true,
+    "targetWidth": 2048,
+    "targetHeight": 1536,
+    "textAreaPercent": [
+      15,
+      25
+    ],
+    "sizeNote": "目標尺寸，不表示圖片已生成或已達原生解析度；交付時另核對實際尺寸。"
+  },
+  "theme": "挫折→休息→找原因→拆開練習→換方法→發現自己的進步",
+  "source": "使用者本輪貼上的20 Scene與故事頁台詞，含安全及科學校訂。",
+  "pages": [
+    {
+      "page": 1,
+      "scene": 1,
+      "title": "我也想做到",
+      "narration": "公園裡，\n有人一下、兩下、三下，\n跳得又快又輕。\n\n瑜瑜看得眼睛亮亮的。\n「我也想學會！」",
+      "artDirection": "公園平坦空地，瑜瑜在安全距離外看別人跳繩；媽媽在旁，繩圈與旁人不重疊。",
+      "image": "page01.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 2,
+      "scene": 2,
+      "title": "第一次開始",
+      "narration": "瑜瑜把跳繩拿好，\n雙腳站得穩穩的。\n\n「好，開始！」\n她把繩子轉過頭頂。",
+      "artDirection": "全身側前景，兩手各一握把，繩子唯一連續路徑呈頭頂弧；運動鞋鞋帶綁好。",
+      "image": "page02.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 3,
+      "scene": 3,
+      "title": "啪！",
+      "narration": "啪！\n\n繩子碰到鞋子前面，\n瑜瑜沒有跳過去。\n\n「咦？」\n她站穩，低頭看看繩子。",
+      "artDirection": "跳完已停，繩鬆落鞋尖前，不纏住腳踝、不摔倒；不畫多條運動殘影。",
+      "image": "page03.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 4,
+      "scene": 4,
+      "title": "再來一次",
+      "narration": "「剛剛只是沒準備好。」\n\n瑜瑜又試了一次。\n這一次——\n啪！\n\n繩子又碰到鞋子了。",
+      "artDirection": "同一場所第二次停住的反應中景；兩手握把，繩落地正常，臉開始不解。",
+      "image": "page04.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 5,
+      "scene": 5,
+      "title": "為什麼別人可以？",
+      "narration": "旁邊的小朋友\n一下、一下、一下，\n跳個不停。\n\n瑜瑜看看他們，\n再看看自己。\n\n「為什麼大家都會，\n只有我不會？」",
+      "artDirection": "瑜瑜失落近景，遠處一個孩子跳繩，別人不嘲笑她。",
+      "image": "page05.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 6,
+      "scene": 6,
+      "title": "越急越亂",
+      "narration": "她把繩子轉得更快，\n也跳得更高。\n\n可是越急，\n手和腳越配合不起來。\n\n才轉一下，\n她又停住了。",
+      "artDirection": "只呈現急促後停下時刻，眉皺肩緊；不示範繩纏腳、纏頸或甩向旁人。",
+      "image": "page06.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 7,
+      "scene": 7,
+      "title": "我不要學了！",
+      "narration": "「我不要學了！」\n\n瑜瑜把跳繩放到一旁。\n她的臉紅紅的，\n眼睛也酸酸的。\n\n「我就是不會。」",
+      "artDirection": "瑜瑜坐長椅生氣，跳繩整條放一旁，不投擲；表情不污名化。",
+      "image": "page07.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 8,
+      "scene": 8,
+      "title": "先休息一下",
+      "narration": "媽媽沒有馬上說話。\n\n她只是坐到瑜瑜旁邊。\n\n風吹過樹葉，\n兩個人安靜了一會兒。",
+      "artDirection": "母女並坐，媽媽不指責、不拉扯；一張完整安靜畫面。",
+      "image": "page08.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 9,
+      "scene": 9,
+      "title": "大人也會失敗",
+      "narration": "過了一會兒，\n媽媽輕輕說：\n\n「你知道嗎？\n媽媽以前學游泳，\n也練了好多次才學會。」\n\n瑜瑜抬起頭。\n「真的嗎？」",
+      "artDirection": "只畫母女分享近景，不用同頁游泳回憶拼貼；媽媽自然小笑，瑜瑜好奇。",
+      "image": "page09.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 10,
+      "scene": 10,
+      "title": "不是不會，是還沒會",
+      "narration": "媽媽說：\n\n「現在不會，\n不代表永遠不會。」\n\n「我們不要一直急著跳，\n先看看是哪裡卡住了。」",
+      "artDirection": "母女看平放的繩子與握把，媽媽蹲下平視，不示範危險纏繞。",
+      "image": "page10.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 11,
+      "scene": 11,
+      "title": "先只練手",
+      "narration": "她們先把繩子放下，\n不急著跳。\n\n瑜瑜空著手，\n練習手腕小小地轉圈。\n\n「原來不用甩得那麼大！」",
+      "artDirection": "空手站立模擬握把，手在身體兩側小幅轉動；繩收在長椅，不在身旁旋轉撞人。",
+      "image": "page11.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 12,
+      "scene": 12,
+      "title": "再只練腳",
+      "narration": "接著，\n她只練小小地跳。\n\n一下。\n一下。\n一下。\n\n「不用跳那麼高耶！」",
+      "artDirection": "一個小跳瞬間，雙腳僅稍離地，膝蓋放鬆；不畫同人三分身或三對腿。",
+      "image": "page12.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 13,
+      "scene": 13,
+      "title": "合起來試試看",
+      "narration": "瑜瑜重新拿起跳繩。\n\n轉——\n跳！\n\n繩子第一次\n從她腳下完整地過去了。\n\n「我跳過去了！」",
+      "artDirection": "側視單一繩通過腳底的瞬間，兩握把、一條繩，繩不可穿鞋穿腿；不合理就改成功後反應。",
+      "image": "page13.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 14,
+      "scene": 14,
+      "title": "又停住了",
+      "narration": "可是第二下，\n繩子又碰到鞋子。\n\n瑜瑜停下來。\n\n這一次，\n她沒有把繩子放棄在一旁。",
+      "artDirection": "成功一次後再停住，仍握繩、表情思考不是笑；繩鬆落無打結。",
+      "image": "page14.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 15,
+      "scene": 15,
+      "title": "我想再看看",
+      "narration": "瑜瑜想了一下。\n\n「我剛剛是不是跳太早了？」\n\n媽媽說：「有可能，\n我們慢慢試一次，看看。」\n\n這一次，\n她開始留意自己的動作。",
+      "artDirection": "母女討論近景；不以媽媽點頭當未驗證猜測的定論。",
+      "image": "page15.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 16,
+      "scene": 16,
+      "title": "換一個方法",
+      "narration": "這時，爸爸也來到公園。\n他站在繩圈外，幫她拍節奏。\n\n「轉——跳！」\n「轉——跳！」\n\n瑜瑜跟著節奏，\n慢慢找到感覺。",
+      "artDirection": "爸爸首次入場固定藍襯衫白T卡其褲，繩圈外拍手；兩隻手正常。媽媽近旁。",
+      "image": "page16.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 17,
+      "scene": 17,
+      "title": "一、二、三",
+      "narration": "一下。\n兩下。\n三下。\n\n瑜瑜停下來，\n自己都嚇了一跳。\n\n「三下！」",
+      "artDirection": "跳完停穩驚喜近景，媽媽豎三指可改微笑避免錯指；不在圖上生成計數字。",
+      "image": "page17.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 18,
+      "scene": 18,
+      "title": "慢慢多一點",
+      "narration": "第二天，她試著跳了五下。\n再過一天，她跳了八下。\n\n有時候還是會卡住，\n有時候也比前一天少。\n\n可是瑜瑜知道，\n休息一下，還能再練習。",
+      "artDirection": "只畫第三天一次練習，同人物服裝允許洗換但核心髮夾不變；日期用後製，不畫三人分身蒙太奇。",
+      "image": "page18.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 19,
+      "scene": 19,
+      "title": "我不用跟別人一樣",
+      "narration": "旁邊有人跳了二十下。\n瑜瑜跳了十下。\n\n她也笑得好開心。\n因為她知道——\n\n她已經找到\n更適合自己的方法。",
+      "artDirection": "孩子跳完後開心看媽媽，其他孩子遠景；不畫排行榜或比較獎牌。",
+      "image": "page19.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 20,
+      "scene": 20,
+      "title": "我可以再試一次",
+      "narration": "原來，\n勇敢不是一次就成功。\n\n是遇到困難的時候，\n願意停一下、想一想。\n\n然後告訴自己：\n\n「沒關係，\n我可以再試一次。」",
+      "artDirection": "夕陽母女收繩，瑜瑜穩重滿足，橘皮小貓可作媽媽袋外小吊飾但不擅改玩偶尺寸：本頁不放，保持同一完整玩偶留家中。",
+      "image": "page20.png",
+      "imageStatus": "generated-reviewed"
+    }
+  ],
+  "actualImageSize": "1448×1086"
+}

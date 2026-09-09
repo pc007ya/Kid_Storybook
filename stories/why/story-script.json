@@ -1,0 +1,202 @@
+{
+  "title": "為什麼？為什麼？",
+  "series": "瑜瑜的成長故事",
+  "status": "20頁正式圖與封面完成",
+  "format": {
+    "sceneCount": 20,
+    "interiorPageCount": 20,
+    "coverSeparate": true,
+    "targetWidth": 2048,
+    "targetHeight": 1536,
+    "textAreaPercent": [
+      15,
+      25
+    ],
+    "sizeNote": "目標尺寸，不表示圖片已生成或已達原生解析度；交付時另核對實際尺寸。"
+  },
+  "theme": "提問→猜測→公平比較→觀察證據→新問題；凝結為貫穿主線",
+  "source": "使用者本輪貼上的20 Scene與故事頁台詞，含安全及科學校訂。",
+  "pages": [
+    {
+      "page": 1,
+      "scene": 1,
+      "title": "窗戶為什麼會流汗？",
+      "narration": "早上起床，\n瑜瑜發現窗戶上\n有一顆一顆的小水珠。\n\n「咦？」\n「窗戶為什麼會流汗？」",
+      "artDirection": "偏涼清晨，窗玻璃內側凝露、室內溫暖；瑜瑜粉色睡衣站地面，不爬窗臺。",
+      "image": "page01.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 2,
+      "scene": 2,
+      "title": "可可粉去哪裡了？",
+      "narration": "吃早餐時，\n瑜瑜把可可粉加進牛奶裡。\n\n攪一攪，\n牛奶變成了棕色，\n小粉粒不像剛才那麼容易看見。\n\n「它們跑去哪裡了？」",
+      "artDirection": "杯中棕色牛奶、有微小粉粒，不做粉消失魔法。媽媽旁看，冷或溫飲非滾燙。",
+      "image": "page02.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 3,
+      "scene": 3,
+      "title": "影子怎麼變長了？",
+      "narration": "走在上學路上，\n瑜瑜看看自己的影子。\n\n今天早上的影子長長的，\n和她記得中午看到的不一樣。\n\n「為什麼影子會變？」",
+      "artDirection": "低太陽清晨長影，一個人一個同向投影，母女光源一致；不畫同一刻忽長忽短。",
+      "image": "page03.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 4,
+      "scene": 4,
+      "title": "磁鐵為什麼不會掉？",
+      "narration": "到了教室，\n老師把大磁鐵放在黑板上。\n\n它沒有掉下來。\n\n瑜瑜馬上舉手：\n「為什麼？」",
+      "artDirection": "老師使用大型教具磁鐵於可吸附鐵質黑板，無可吞小磁珠，其他物件不全被吸。",
+      "image": "page04.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 5,
+      "scene": 5,
+      "title": "植物為什麼朝著窗戶？",
+      "narration": "窗邊的一盆小苗，\n莖和葉子朝著亮亮的地方伸去。\n\n瑜瑜歪著頭。\n\n「它也喜歡看窗外嗎？」",
+      "artDirection": "單盆小苗輕微向窗光，不說所有植物都偏斜；無擬人眼睛。",
+      "image": "page05.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 6,
+      "scene": 6,
+      "title": "雲裡面裝了什麼？",
+      "narration": "下午，\n天空變得灰灰的。\n\n雨滴答、滴答落下來。\n\n「雲裡面到底裝了什麼？」",
+      "artDirection": "教室窗內看雨，無暴雨外出；正常雨雲無裝水桶卡通。",
+      "image": "page06.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 7,
+      "scene": 7,
+      "title": "杯子為什麼會唱歌？",
+      "narration": "探索活動時，\n老師輕輕敲了幾個裝水的杯子。\n\n叮。\n噹。\n咚。\n\n「為什麼聲音不一樣？」",
+      "artDirection": "成人敲杯，三個同款同尺寸玻璃杯不同水量，放防滑托盤；小朋友手不碰杯。",
+      "image": "page07.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 8,
+      "scene": 8,
+      "title": "老師沒有直接告訴我",
+      "narration": "瑜瑜以為老師會直接回答。\n\n沒想到老師笑著說：\n「你覺得呢？」\n\n瑜瑜愣了一下。\n她也可以先想一想嗎？",
+      "artDirection": "老師與瑜瑜平視對話，桌上沿用三同款杯，畫面不生文字。",
+      "image": "page08.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 9,
+      "scene": 9,
+      "title": "先猜一猜",
+      "narration": "有人說：\n「是不是杯子不一樣？」\n\n有人說：\n「是不是水在唱歌？」\n\n瑜瑜也舉手：\n「是不是水越多，聲音越低？」",
+      "artDirection": "學生輪流發言一時刻，瑜瑜舉一手；猜測不以大勾號當答案。",
+      "image": "page09.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 10,
+      "scene": 10,
+      "title": "猜了以後，要找證據",
+      "narration": "老師說：「我們來比較看看。」\n\n杯子用同一種，\n敲的位置和力道也盡量相同，\n只改變水量。\n\n大家仔細聽，再記下來。\n這次輕敲時，水較多的杯子，\n聽起來比較低。",
+      "artDirection": "同款三杯，少中多水可辨，老師同工具輕敲，孩子圖畫記錄；不畫吹瓶，區別吹氣音高。",
+      "image": "page10.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 11,
+      "scene": 11,
+      "title": "窗戶流汗的秘密",
+      "narration": "接著，老師拿來兩個一樣的透明杯。\n一杯裝常溫水，一杯裝冰水，\n先把杯子外面擦乾。\n\n過了一會兒，\n冰水杯外面冒出小水珠。\n\n「咦？跟早上的窗戶好像！」",
+      "artDirection": "兩透明塑膠杯同型，冰杯有外水珠、常溫杯乾；均無熱水，老師在旁。",
+      "image": "page11.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 12,
+      "scene": 12,
+      "title": "原來不是窗戶在流汗",
+      "narration": "老師說：\n「空氣裡有看不見的水蒸氣。」\n\n「碰到夠冷的表面，\n就可能凝結成小水珠。」\n\n瑜瑜睜大眼睛。\n「原來不是杯子漏水呀！」",
+      "artDirection": "杯外凝結近景與孩子反應，水珠不從杯內穿壁；不把氣體畫水滴假裝可見。",
+      "image": "page12.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 13,
+      "scene": 13,
+      "title": "那雲呢？",
+      "narration": "她才剛知道一件事，\n馬上又想到另一個問題。\n\n「那雲呢？也跟水有關嗎？」\n\n老師說：「對呀，雲裡有好多小水滴，\n有些雲裡還有小冰晶。」\n\n瑜瑜又想問：\n「那它們怎麼變成雨呢？」",
+      "artDirection": "雨後窗前雲景，老師指自然雲；微觀圖如需另做經驗證素材，不硬生成冰滴比例。",
+      "image": "page13.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 14,
+      "scene": 14,
+      "title": "鍋蓋上的小水滴",
+      "narration": "晚上，爸爸正在煮湯。\n他用隔熱手套拿起鍋蓋，\n讓瑜瑜站在安全的地方看。\n\n「爸爸！蓋子裡有小水滴！」\n\n「這個是不是也跟窗戶一樣？」",
+      "artDirection": "爸爸掌控熱鍋蓋、戴手套、蒸氣遠離孩子，孩子遠離爐台不伸手，鍋蓋滴水非漏。",
+      "image": "page14.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 15,
+      "scene": 15,
+      "title": "爸爸也不急著說答案",
+      "narration": "爸爸說：\n「這兩件事很像，我們再比一比。」\n\n等離開爐台，\n他拿出兩個一樣的杯子。\n\n「一杯常溫水，一杯冰水，\n你猜哪個杯子外面會先有水珠？」",
+      "artDirection": "改在餐桌安全冰水對照，爸爸不是叫孩子摸熱鍋蓋；兩同款杯無熱源。",
+      "image": "page15.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 16,
+      "scene": 16,
+      "title": "家裡也可以做探索",
+      "narration": "原來，\n家裡也有好多問題。\n\n為什麼風扇會讓人覺得涼？\n為什麼冰塊會融化？\n為什麼肥皂泡會有彩虹？\n為什麼植物要澆水？\n\n瑜瑜先記下來，\n再和爸爸媽媽一起選一個來探索。",
+      "artDirection": "單一全景桌前寫問題本，背景盆栽、封閉扇罩風扇；不畫同格四個實驗，不讓水近插座。",
+      "image": "page16.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 17,
+      "scene": 17,
+      "title": "答案可以有很多種找法",
+      "narration": "有些問題可以做實驗。\n有些可以看書。\n有些要問老師。\n有些要等一等，\n再仔細觀察。\n\n瑜瑜發現，\n找答案也有好多條路。",
+      "artDirection": "圖書館母女閱讀一本自然書，保留單景，平板若出現不假造知識文字。",
+      "image": "page17.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 18,
+      "scene": 18,
+      "title": "有些問題還不知道",
+      "narration": "隔天，瑜瑜問：\n「學校的樹，為什麼這幾天落了好多葉子？」\n\n老師想了想。\n「這一棵樹的原因，\n老師現在還不能確定。」\n\n瑜瑜有點驚訝。",
+      "artDirection": "第二天校園觀樹，正常落葉非必然枯死，老師思考不是無知尷尬，孩子安全樹下。",
+      "image": "page18.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 19,
+      "scene": 19,
+      "title": "不知道也可以",
+      "narration": "老師拿出一本小冊子。\n\n「不知道，不代表不能問。」\n「我們先記下來，\n看看天氣、找找樹的資料，\n再一起觀察幾天。」\n\n瑜瑜認真地寫下問題。\n還沒找到答案，也有下一步。",
+      "artDirection": "問題小冊子可空白留後製標題，孩子寫筆正常；老師同前頁角色造型。",
+      "image": "page19.png",
+      "imageStatus": "generated-reviewed"
+    },
+    {
+      "page": 20,
+      "scene": 20,
+      "title": "世界還有好多門",
+      "narration": "晚上，\n瑜瑜看著窗外的月亮。\n\n今天的月亮，\n不是圓圓的。\n\n「為什麼月亮每天看起來不一樣？」\n媽媽笑著坐到她旁邊。\n\n每一個「為什麼」，\n都像一扇小小的門。\n推開它，世界就又大了一點。",
+      "artDirection": "粉兔睡衣瑜瑜與媽媽在關窗旁，一個上弦月天空，不畫多月同時；橘皮小貓固定玩偶在枕頭。",
+      "image": "page20.png",
+      "imageStatus": "generated-reviewed"
+    }
+  ],
+  "actualImageSize": "1448×1086"
+}
