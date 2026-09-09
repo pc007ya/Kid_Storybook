@@ -2775,15 +2775,15 @@
         {
           "id": "yuyu-after-school-v1-page-1",
           "title": "放學鐘響",
-          "text": "放學鐘響了。\n瑜瑜收好鉛筆盒，把椅子推回桌下。\n「老師再見！」\n下午的陽光照進教室，今天的小冒險正要開始。",
+          "text": "放學鐘響了。瑜瑜收好鉛筆盒，把椅子推回桌下。\n「老師再見！」下午的陽光照進教室，今天的小冒險正要開始。",
           "scene": "教室下午中景，瑜瑜整理書包；制服與第一本一致。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 12.77469758064516,
+            "y": 84.42251955034213,
+            "width": 74.51246334310851,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2794,7 +2794,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 12.73063294232649
           },
           "image": {
             "id": "after-school-15c89cd7ddbcae265b8438131d590b624385c04bd87f6fb8b4b2fbde0bf6604c",
@@ -2821,9 +2821,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 30.217650293255133,
+            "y": 71.99224095796677,
+            "width": 41.09283357771261,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2834,7 +2834,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 25.665933528836753
           },
           "image": {
             "id": "after-school-1a1250caff0e4f09d28670dc741878d5948db04a79fdb8e53b93c6edf993a271",
@@ -2861,9 +2861,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 27.981579912023463,
+            "y": 75.75927419354838,
+            "width": 45.60048570381232,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2874,7 +2874,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.377077223851416
           },
           "image": {
             "id": "after-school-d43b79d1d3432524e9c30b79d7af71e6df0d3f8abb16d29f020fbe298bbd2b17",
@@ -2901,9 +2901,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 39.848103005865106,
+            "y": 70.18077956989248,
+            "width": 43.11010813782991,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2914,7 +2914,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 27.70039100684262
           },
           "image": {
             "id": "after-school-42ab62cbf9a49de6713123d1136952d551cfddbdf5c60974ae30e6fcf9543cdb",
@@ -2941,9 +2941,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 42.29953262463343,
+            "y": 74.16011730205278,
+            "width": 46.586785190615835,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2954,7 +2954,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.76350195503421
           },
           "image": {
             "id": "after-school-a111e8f511e7de4b08b55da1ac28b00a041f09f161f5f536d9a5a11bbea2d6cc",
@@ -2981,9 +2981,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 35.55581011730205,
+            "y": 73.28646138807429,
+            "width": 58.39946847507332,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -2994,7 +2994,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.820014662756595
           },
           "image": {
             "id": "after-school-ce41b88dcc26c2d41fecd109ab253a2a6ea0fdd379fb5e200ca2d9dc45c8f7ed",
@@ -3021,9 +3021,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 49.09136730205279,
+            "y": 73.73245356793743,
+            "width": 42.44111986803519,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3034,7 +3034,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.61840175953079
           },
           "image": {
             "id": "after-school-d376bf79d58873b29e8f2fbe3d0acc1119c5a77db2ce5e2f19b6824839d2c0b4",
@@ -3061,9 +3061,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 36.06442448680352,
+            "y": 74.38464076246333,
+            "width": 53.212518328445746,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3074,7 +3074,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.871945259042032
           },
           "image": {
             "id": "after-school-b1537d0c4cc66a333b3265239f2e114fc0266cc4bee8f85bb6bb1bcf76769f3a",
@@ -3101,9 +3101,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 37.224844208211145,
+            "y": 71.18426197458456,
+            "width": 49.49757148093842,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3114,7 +3114,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 26.032502443792765
           },
           "image": {
             "id": "after-school-692dd8d6df0bbf5bc600bdd0fa8ff7621a8217a12b27c3100e71c58c37a23f4d",
@@ -3141,9 +3141,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 29.268007697947212,
+            "y": 71.7600806451613,
+            "width": 47.15611253665689,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3154,7 +3154,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 25.798814760508307
           },
           "image": {
             "id": "after-school-281baaf3cc8d87ad9048d94a3801fc7c0b119824ac2d6197452d4ed1b30e76ce",
@@ -3181,9 +3181,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 24.231121700879765,
+            "y": 75.10708699902247,
+            "width": 56.611299486803524,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3194,7 +3194,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.904020039100683
           },
           "image": {
             "id": "after-school-439d8d8f8445af61f0b4ef84d39f2c770f5b5d76f9b777b818d2da086b99e764",
@@ -3221,9 +3221,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 28.21984970674487,
+            "y": 76.00823558162267,
+            "width": 51.22044538123167,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3234,7 +3234,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.16782746823069
           },
           "image": {
             "id": "after-school-167137a10b055384905fa7f069f05fe27a37dfda4e75f6ac04b63a216627ac9f",
@@ -3261,9 +3261,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 28.58298203812317,
+            "y": 75.2338587487781,
+            "width": 61.58059934017595,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3274,7 +3274,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 22.753238025415442
           },
           "image": {
             "id": "after-school-8aa18d487db4b970e446ae03109d4f56484f913f983934e27598751fcdc88ca0",
@@ -3295,15 +3295,15 @@
         {
           "id": "yuyu-after-school-v1-page-14",
           "title": "地面的小世界",
-          "text": "一片葉子躺在小路旁。\n葉子附近，有慢慢爬的蝸牛，也有忙忙碌碌的螞蟻。\n瑜瑜蹲下來看。\n她不踩、不抓，只用眼睛跟著牠們走。",
+          "text": "一片葉子躺在小路旁。葉子附近，有慢慢爬的蝸牛，也有忙忙碌碌的螞蟻。瑜瑜蹲下來看。她不踩、不抓，只用眼睛跟著牠們走。",
           "scene": "低機位孩子觀察落葉和小蝸牛，螞蟻細小比例正常；媽媽在近處，不觸碰野生生物。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 22.623946114369502,
+            "y": 80.30778347996089,
+            "width": 57.676640395894424,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3314,7 +3314,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 17.017961876832842
           },
           "image": {
             "id": "after-school-32a6b572b72363e1b29cad4a78382be6b1d0e1da0053872efca0aa507eb9bc29",
@@ -3335,15 +3335,15 @@
         {
           "id": "yuyu-after-school-v1-page-15",
           "title": "安靜的小觀眾",
-          "text": "矮樹枝上，停著一隻小鳥。\n瑜瑜本來想叫媽媽，馬上又放輕聲音。\n「你看……」\n母女倆留在原地，安靜地看。\n小鳥抖抖羽毛，唱了兩聲。",
+          "text": "矮樹枝上，停著一隻小鳥。\n瑜瑜本來想叫媽媽，馬上又放輕聲音。「你看……」\n母女倆留在原地，安靜地看。\n小鳥抖抖羽毛，唱了兩聲。",
           "scene": "母女與鳥保持距離，不靠近鳥巢，不餵食；枝上正常小鳥，不巨大化。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 26.57372617302053,
+            "y": 76.33455522971651,
+            "width": 59.133751832844574,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3354,7 +3354,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 20.705034213098727
           },
           "image": {
             "id": "after-school-01943531e3e3c43a20c7a6304c1f58694fdcb2f7e79c695e1fbaa69a1e31ac25",
@@ -3375,15 +3375,15 @@
         {
           "id": "yuyu-after-school-v1-page-16",
           "title": "還想再看一下",
-          "text": "瑜瑜看得入迷，還想再找一隻蝸牛。\n這時，媽媽輕聲提醒：「快到約好的時間了。」\n瑜瑜看看天色。\n「啊，我差點忘記！」\n好玩的事，也要記得時間。",
+          "text": "瑜瑜看得入迷，還想再找一隻蝸牛。\n這時，媽媽輕聲提醒：「快到約好的時間了。」瑜瑜看看天色。「啊，我差點忘記！」好玩的事，也要記得時間。",
           "scene": "媽媽指自己的手錶、瑜瑜抬頭；夕陽仍明亮，不已天黑才想回去。",
           "style": {
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 30.96682551319648,
+            "y": 75.85496089931574,
+            "width": 56.754490469208214,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3394,7 +3394,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 20.74016373411535
           },
           "image": {
             "id": "after-school-f7f75c002e707c0c1cb631414e3caf3db37e163b5423effcaeee2268bf1ae739",
@@ -3421,9 +3421,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 18.90899926686217,
+            "y": 75.30106304985337,
+            "width": 69.38622617302053,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3434,7 +3434,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 21.407624633431084
           },
           "image": {
             "id": "after-school-982707d06e9e272af5c13b7e640c7eba9ace5c7b3b8052be0605b1a84f314acb",
@@ -3461,9 +3461,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 50.99179802052787,
+            "y": 69.44458699902249,
+            "width": 38.87509164222874,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3474,7 +3474,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 25.82783479960899
           },
           "image": {
             "id": "after-school-e8dea8d3c8dccca3e5e3876679f5f07a74d3b190db675aba87488f04b482a37a",
@@ -3501,9 +3501,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 74.6,
-            "width": 90,
+            "x": 27.253024193548384,
+            "y": 68.56230449657869,
+            "width": 46.0025659824047,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3514,7 +3514,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 27.45295698924731
           },
           "image": {
             "id": "after-school-d54a6e8f07a36a2a8d6d305031fd465b10f4c00ca4b5094ca0b159a0c876ced6",
@@ -3541,9 +3541,9 @@
             "font": "sans",
             "color": "#233342",
             "size": 26,
-            "x": 5,
-            "y": 70.5,
-            "width": 90,
+            "x": 22.362765762463344,
+            "y": 69.50415444770283,
+            "width": 64.13168988269794,
             "lineHeight": 1.4,
             "paragraphGap": 0,
             "align": "left",
@@ -3554,7 +3554,7 @@
             "borderColor": "#233342",
             "borderWidth": 0,
             "rotation": 0,
-            "height": 0
+            "height": 27.960043988269792
           },
           "image": {
             "id": "after-school-9a673c603e609837ed5daebb0f6d32bddf22bda21102afa30ca60fb0678bbe3d",
